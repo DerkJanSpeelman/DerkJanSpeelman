@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on the development of a space themed game and I'm working on tournament management/tracking software for the Formula 1 game series.
-<br>🌱 I’m currently learning more about math and 3d development.
+<br>🌱 I’m currently learning more about maths and 3d development.
 <br>⚡ Fun fact: the first website I made was when I was 12yo (±2007). Visitors could order cakes and I'd bake and deliver the cakes. The profits went to a charity foundation.
 
 <!--
