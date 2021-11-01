@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 🔭 I’m currently working on tournament management/tracking software for the Formula 1 game series, I'm developing a space game in Godot and I'm working on a Pokémon website.
 <br>🌱 I’m currently learning more about the blockchain, maths and 3d development.
